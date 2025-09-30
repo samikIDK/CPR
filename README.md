@@ -1,4 +1,4 @@
-# Ez Calculator
+# Simple Calculator
 
 This project contains a simple calculator written in Python.  
 It allows you to perform basic mathematical operations:
