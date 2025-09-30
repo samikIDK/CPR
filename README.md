@@ -1,6 +1,6 @@
-# Simple Calculator
+# Ez Calculator
 
-This project contains a simple calculator written in Python.  
+This Project contains a simple calculator written in Python.  
 It allows you to perform basic mathematical operations:
 
 - Addition  
